@@ -1,0 +1,72 @@
+{
+  "dependencies": {
+    
+    "com.google.android.appbundle": "https://unity_bot:agxe-y5EHdxYxWWo8Fq-@gitlab.spiele-palast.de/unity-packages/appbundle-1.5.0.git",
+    "com.google.external-dependency-manager": "https://unity_bot:agxe-y5EHdxYxWWo8Fq-@gitlab.spiele-palast.de/unity-packages/external-dependency-manager-1.2.167.git",
+    "com.google.firebase.analytics": "https://unity_bot:agxe-y5EHdxYxWWo8Fq-@gitlab.spiele-palast.de/unity-packages/firebase.analytics-8.6.1.git",
+    "com.google.firebase.app": "https://unity_bot:agxe-y5EHdxYxWWo8Fq-@gitlab.spiele-palast.de/unity-packages/firebase.app-8.6.1.git",
+    "com.google.firebase.installations": "https://unity_bot:agxe-y5EHdxYxWWo8Fq-@gitlab.spiele-palast.de/unity-packages/com.google.firebase.installations-8.6.1.git",
+    "com.google.firebase.messaging": "https://unity_bot:agxe-y5EHdxYxWWo8Fq-@gitlab.spiele-palast.de/unity-packages/com.google.firebase.messaging-8.6.1.git",
+    "com.google.firebase.remote-config": "https://unity_bot:agxe-y5EHdxYxWWo8Fq-@gitlab.spiele-palast.de/unity-packages/com.google.firebase.remote-config-8.6.1.git",
+    "com.google.play.core": "https://unity_bot:agxe-y5EHdxYxWWo8Fq-@gitlab.spiele-palast.de/unity-packages/com.google.play.core-1.5.0.git",
+    "com.google.play.review": "https://unity_bot:agxe-y5EHdxYxWWo8Fq-@gitlab.spiele-palast.de/unity-packages/com.google.play.review-1.5.0.git",
+    "com.google.play.common": "https://unity_bot:agxe-y5EHdxYxWWo8Fq-@gitlab.spiele-palast.de/unity-packages/com.google.play.common-1.5.0.git",
+    
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.addressables": "1.19.17",
+    "com.unity.analytics": "3.6.12",
+    "com.unity.ide.rider": "3.0.9",
+    "com.unity.ide.visualstudio": "2.0.14",
+    "com.unity.ide.vscode": "1.2.4",
+    "com.unity.mobile.android-logcat": "1.2.3",
+    "com.unity.mobile.notifications": "1.4.2",
+    "com.unity.purchasing": "4.1.2",
+    "com.unity.test-framework": "1.1.29",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.timeline": "1.6.3",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.visualscripting": "1.7.6",
+    "com.unity.modules.ai": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.assetbundle": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.cloth": "1.0.0",
+    "com.unity.modules.director": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.screencapture": "1.0.0",
+    "com.unity.modules.terrain": "1.0.0",
+    "com.unity.modules.terrainphysics": "1.0.0",
+    "com.unity.modules.tilemap": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.umbra": "1.0.0",
+    "com.unity.modules.unityanalytics": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.unitywebrequestassetbundle": "1.0.0",
+    "com.unity.modules.unitywebrequestaudio": "1.0.0",
+    "com.unity.modules.unitywebrequesttexture": "1.0.0",
+    "com.unity.modules.unitywebrequestwww": "1.0.0",
+    "com.unity.modules.vehicles": "1.0.0",
+    "com.unity.modules.video": "1.0.0",
+    "com.unity.modules.vr": "1.0.0",
+    "com.unity.modules.wind": "1.0.0",
+    "com.unity.modules.xr": "1.0.0",
+    "com.yasirkula.nativegallery": "https://github.com/yasirkula/UnityNativeGallery.git"
+
+  },
+  "scopedRegistries": [
+    {
+      "name": "Game Package Registry by Google",
+      "url": "https://unityregistry-pa.googleapis.com",
+      "scopes": [
+        "com.google"
+      ]
+    }
+  ]
+}

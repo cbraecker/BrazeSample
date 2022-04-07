@@ -1,0 +1,70 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+Library/ 
+Link_Framework/
+/Link_Framework/
+Link_Framework/*
+/Assets/Lobby/Scenes/TEST_LobbyScene
+/Assets/StreamingAssets/build_info.txt
+/Pinochle/.idea/.idea.Pinochle/.idea/workspace.xml
+/Pinochle/Logs/
+/Pinochle/Logs/*
+sysinfo.txt
+*.stackdump
+ 
+# ============================================= #
+# Visual Studio / MonoDevelop / Rider generated #
+# ============================================= #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.pidb
+/*.suo
+/*.unityproj
+/*.booproj
+/.idea*/
+*.log
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+project_root_marker
+
+.agignore
+
+/.vim_l
+
+*.pyc
+
+*.csproj.user
+
+Pinochle/Assets/BuildReports/
+Pinochle/Logs/shadercompiler-UnityShaderCompiler1.log
+Pinochle/Logs/shadercompiler-UnityShaderCompiler2.log
+Pinochle/Logs/shadercompiler-UnityShaderCompiler3.log
+Pinochle/Logs/shadercompiler-UnityShaderCompiler4.log
+Pinochle/Logs/shadercompiler-UnityShaderCompiler5.log
+Build_Tools/test
+local*.bat
+Logs/
+.vsconfig
+ServerData
+build_android.log
+
+Logs/shadercompiler-UnityShaderCompiler.exe0.log
+Logs/shadercompiler-UnityShaderCompiler.exe1.log
+Logs/shadercompiler-UnityShaderCompiler.exe2.log
+Logs/shadercompiler-UnityShaderCompiler.exe3.log
+
+docs/
